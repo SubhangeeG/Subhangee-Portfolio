@@ -1,12 +1,31 @@
-# React + Vite
+# 💻 Subhangee's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal **portfolio website**, crafted to represent my journey as a developer.  
+It highlights my **technical skills, academic background, professional experiences, and the projects** I’ve built along the way.  
+The design is minimal yet modern, focusing on both aesthetics and usability.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Highlights
+- 📱 **Responsive Layout** – Works seamlessly across laptops, tablets, and mobile devices  
+- 🖌️ **Modern Design** – Smooth animations, subtle effects, and a clean interface  
+- 🗂️ **Project Showcase** – Interactive cards with detailed descriptions and GitHub links  
+- ⚡ **Optimized Performance** – Lightweight build ensuring fast loading times  
+- 🧭 **Easy Navigation** – Fixed navbar with smooth scrolling to different sections  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Built With
+- ⚛️ **React.js** – To build reusable components and create a dynamic interface  
+- 🎨 **Tailwind CSS** – For a responsive and utility-first styling system  
+- 🖼️ **React Icons** – To integrate scalable and consistent iconography  
+
+---
+
+## 🚀 Run Locally
+
+Follow these steps to clone and set up the project on your machine:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SubhangeeG/Subhangee-Portfolio.git
