@@ -1,7 +1,7 @@
 import React from "react";
 import { Typewriter } from "react-simple-typewriter";
 import Tilt from "react-parallax-tilt";
-import HeroImage from "../../assets/HeroImage.png";
+import HeroImage from "../../assets/favicon.png";
 
 function About() {
   return (
